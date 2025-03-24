@@ -1,0 +1,17 @@
+# Archivos de entorno con credenciales
+.env
+
+# Dependencias
+/node_modules
+
+# Otros archivos comunes que no se deben subir
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Archivos de registro
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
